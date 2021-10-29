@@ -3,7 +3,7 @@
 ## Tonton Jo - 2021
 Join me on Youtube: https://www.youtube.com/c/tontonjo
 
-If you find this usefull, please consider supporting me trough 
+If you find this usefull, please consider supporting me trough  
 <a href="https://www.buymeacoffee.com/tontonjo"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"></a> or <a href="https://www.buymeacoffee.com/tontonjo"><img src="https://i.ibb.co/KjWSd95/banner-bleu.png"></a> and Express VPN affiliated links :
 
 ## Sources: 
