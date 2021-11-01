@@ -4,7 +4,7 @@
 
 [![C# Discord online members](https://badgen.net/discord/online-members/csharp)](https://discord.gg/784799519618367498)
 
-[![C# Discord](https://badgen.net/discord/members/784799519618367498)](https://discord.gg/784799519618367498)
+[![C# Discord](https://badgen.net/discord/members/2NQskxZjfp)](https://discord.gg/2NQskxZjfp)
 
 
 
