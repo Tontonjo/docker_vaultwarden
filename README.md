@@ -2,7 +2,8 @@
 
 ## Tonton Jo - 2021
 
-[![Discord Tonton Jo online members](https://badgen.net/discord/online-members/784799519618367498)](https://discord.gg/784799519618367498)
+[![C# Discord online members](https://badgen.net/discord/online-members/csharp)](https://discord.gg/csharp)
+
 
 
 If you find this usefull, please consider supporting my work:  
