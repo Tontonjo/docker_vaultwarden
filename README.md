@@ -7,7 +7,7 @@ If you find this usefull, please consider supporting my work:
 - Join the community:
 - 
 [![C# Discord](https://badgen.net/discord/members/2NQskxZjfp)](https://discord.gg/2NQskxZjfp)
-[![C# Discord](https://badgen.net/badge/:discord/members/2NQskxZjfp)](https://discord.gg/2NQskxZjfp)
+[![C# Discord](https://badgen.net/badge/discord/members/2NQskxZjfp)](https://discord.gg/2NQskxZjfp)
 
 
  [Youtube Channel](http://youtube.com/channel/UCnED3K6K5FDUp-x_8rwpsZw?sub_confirmation=1)  
