@@ -9,7 +9,7 @@ If you find this usefull, please consider supporting my work:
 
 
 [![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/tontonjo)
-[![Infomaniak](https://badgen.net/badge/icon/buymeacoffee?icon=https://www.infomaniak.com/ico/favicon-16x16.png&label=Infomaniak)](https://www.infomaniak.com/goto/fr/home?utm_term=6151f412daf35)
+[![Infomaniak](https://badgen.net/badge/label/?icon=https://www.infomaniak.com/ico/favicon-16x16.png&label=Infomaniak)](https://www.infomaniak.com/goto/fr/home?utm_term=6151f412daf35)
 
 
  [Youtube Channel](http://youtube.com/channel/UCnED3K6K5FDUp-x_8rwpsZw?sub_confirmation=1)  
