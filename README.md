@@ -8,9 +8,8 @@ If you find this usefull, please consider supporting my work:
 - 
 [![Discord Tonton Jo](https://badgen.net/discord/members/2NQskxZjfp?label=Discord%20Tonton%20Jo)](https://discord.gg/2NQskxZjfp)  
 
-[Custom badge](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCnED3K6K5FDUp-x_8rwpsZw&key=AIzaSyA3ivqywNPQz0xFZBHfPDKzh1jFH5qGD_g)]
+[Custom badge](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCnED3K6K5FDUp-x_8rwpsZw&key=AIzaSyA3ivqywNPQz0xFZBHfPDKzh1jFH5qGD_g)
 
-https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCnED3K6K5FDUp-x_8rwpsZw]&key=[AIzaSyDK1Ly4pD5L5F2R8Fl7Wz0WIHjDDMmQTCQ]
 
 AIzaSyDK1Ly4pD5L5F2R8Fl7Wz0WIHjDDMmQTCQ
 
